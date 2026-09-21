@@ -44,7 +44,7 @@
 
         const DEFAULT_SLIDES = [
             {
-                image: { src: "https://imagedelivery.net/IEUjvl3YUlxY-MrTpOAWDQ/7d4d2641-d6a8-4fef-e85c-b12ed100d500/w=800" },
+                image: { src: "https://png.pngtree.com/png-clipart/20240308/original/pngtree-cute-fire-cartoon-character-png-image_14545874.png" },
                 title: "James Walker",
             },
             {
